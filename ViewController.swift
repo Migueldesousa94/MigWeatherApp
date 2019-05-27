@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Mig Weather
 //
-//  Created by Abigail Benvenuti on 5/25/19.
+//  Created by Miguel De Sousa on 5/25/19.
 //  Copyright © 2019 Miguel De Sousa. All rights reserved.
 //
 
