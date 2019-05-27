@@ -134,7 +134,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         
         
         
-        guard let url2 = URL(string: "http://api.openweathermap.org/data/2.5/weather?lat=38.5816&lon=121.4944&units=imperial&appid=38fad0a6acef542f59fcca86fc3d7b2f")
+        guard let url2 = URL(string: "http://api.openweathermap.org/data/2.5/weather?lat=\(lat)&lon=\(lon)&units=imperial&appid=38fad0a6acef542f59fcca86fc3d7b2f")
             else {
                 return
         }
